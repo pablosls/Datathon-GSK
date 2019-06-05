@@ -16,7 +16,7 @@ Ferramentas e dashboads:
 
 Link do Dashboard Online
 
-	https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/4ijovfr7nr3c5n0/keplergl_inqdk59.json
+	https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/0k3xva67ka16nu6/keplergl_1glczoq.json
 
 Insights:	
 
