@@ -1,0 +1,28 @@
+Grupo: ClickAsma
+
+Dados públicos utilizados
+
+	Datasus - MORBIDADE HOSPITALAR DO SUS - POR LOCAL DE INTERNAÇÃO - BRASIL
+	- http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/nibr.def
+
+	IBGE - Base pública de municípios Brasileiros 
+	- ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localidades/Geomedia_MDB/BR_Localidades_2010_v1.mdb
+
+
+Ferramentas e dashboads:
+	
+	- Python - Jupyter Notebook
+	- Kepler.gl - Exploração visual dos dados. 
+
+Link do Dashboard Online
+
+	https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/ac1pbnshhimmqa1/keplergl_zolr9gv.json
+
+Insights:	
+
+	Quais regiões do brasil possuem maior custo de internações ?
+	Quais Regiões com a maior taxa de mortalidade em Janeiro no Brasil? 
+	No decorer do ano, qual a variação da taxa de mortalidade ?
+	Qual a variação do custo de medio de internação por regiões no decorrer do ano ?
+	Há variação na taxa de Óbito por Asma no decorrer do ano ?
+
